@@ -1,7 +1,4 @@
-"""
-Configuration management for BlueTeam Arsenal.
-Handles loading, validation, and access to configuration settings.
-"""
+
 
 import os
 import json
