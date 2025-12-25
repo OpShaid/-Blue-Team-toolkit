@@ -1,7 +1,4 @@
-"""
-Logging configuration for BlueTeam Arsenal.
-Provides structured logging with support for multiple outputs.
-"""
+
 
 import logging
 import sys
