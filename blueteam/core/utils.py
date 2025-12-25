@@ -1,6 +1,4 @@
-"""
-Utility functions for BlueTeam Arsenal.
-"""
+
 
 import hashlib
 import ipaddress
