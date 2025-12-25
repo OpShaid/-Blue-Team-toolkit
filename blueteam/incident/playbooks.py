@@ -1,6 +1,4 @@
-"""
-Playbook Engine - Automated incident response playbooks.
-"""
+
 
 import json
 import yaml
