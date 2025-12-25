@@ -1,7 +1,4 @@
-"""
-Database abstraction layer for BlueTeam Arsenal.
-Supports SQLite, PostgreSQL, and MySQL backends.
-"""
+
 
 import sqlite3
 import json
